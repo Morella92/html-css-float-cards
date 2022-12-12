@@ -36,8 +36,18 @@
 
 .information{
     color: white;
+    font-size: 12px;
     width: 50px;
     float: left;
-    text-align: left;
+   text-align: left;
+   margin-left: 3px;
+}
+
+.name{
+    font-weight: 300px;
+}
+
+.email{
+    color: blue;
 }
 
