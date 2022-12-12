@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    max-width: 900px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+.clearfix{
+    content: "";
+    display: block;
+    clear: both;
+}
+
+.title h1{
+    color: fuchsia;
+    margin-bottom: 20px;
+}
+
+.col{
+    background-color: black;
+    width: 210px;  
+    float: left;
+    margin: 5%; 
+}
+
+.card img{
+    height: 80px;
+    width: 80px;
+    float: left;
+}
+
+.information{
+    color: white;
+    width: 50px;
+    float: left;
+    text-align: left;
+}
+
